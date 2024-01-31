@@ -3,7 +3,7 @@ title: CONTRIBUTING
 ---
 # How to contribute
 
-If you would like to contribute to the Azure ChatGPT repository there are many ways you can help.
+Test commit - If you would like to contribute to the Azure ChatGPT repository there are many ways you can help.
 
 ## Reporting issues
 
